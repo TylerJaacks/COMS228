@@ -1,0 +1,1 @@
+The fastest sorting algorithm from my tests is quicksort, the next fastest is mergesort, and the slowest is the selectionsort
